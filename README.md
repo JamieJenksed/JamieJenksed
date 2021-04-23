@@ -1,10 +1,10 @@
 # 👋 Hello Hello! 👋
 
 ## Welcome to my Github profile 🎉 
-*stay a while ☕ I love having you here*
+*☕ stay a while  I love having you here ☕*
 
 My name is Jamie Jenks  
-I'm a web development professional gone software developer,  
+I'm a web developer (front-end, back-end, full stack ... I love it all)  
 I'm happily married to my loving husband, and  
 I'm very passionate about music and musical theatre 🎼
 
