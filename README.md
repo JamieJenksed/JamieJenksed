@@ -3,12 +3,12 @@
 ## Welcome to my Github profile 🎉 
 *stay a while ☕ I love having you here*
 
-My name is Jamie Jenks
-I'm a web development professional gone software developer,
-I'm happily married to my loving husband, and
+My name is Jamie Jenks  
+I'm a web development professional gone software developer,  
+I'm happily married to my loving husband, and  
 I'm very passionate about music and musical theatre 🎼
 
-As a developer I'm proficient with:
+As a developer I'm proficient with:  
   - HTML5
   - CSS3
   - React
