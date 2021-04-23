@@ -1,16 +1,25 @@
-### Hi there 👋
+# 👋 Hello Hello! 👋
 
-<!--
-**JamieJenksed/JamieJenksed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my Github profile 🎉 
+*stay a while ☕ I love having you here*
 
-Here are some ideas to get you started:
+My name is Jamie Jenks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a web development professional gone software developer,
+
+I'm happily married to my loving husband, and
+
+I'm very passionate about music and musical theatre 🎼
+
+As a developer I'm proficient with:
+  - HTML5
+  - CSS3
+  - React
+  - JavaScript ES6
+  - Java 8
+  - Python 3
+
+Feel free to look below ⬇️ or peruse my repositories
+
+You can reach me on my [Linkedin](linkedin.com/in/jamiejenksdev). Feel free to send a message
+I'd love to have a chat!
