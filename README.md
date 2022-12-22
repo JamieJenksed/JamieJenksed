@@ -3,18 +3,23 @@
 ## Welcome to my Github profile 🎉 
 *☕ stay a while  I love having you here ☕*
 
-My name is Jamie Jenks  
-I'm a web developer (front-end, back-end, full stack ... I love it all)  
-I'm happily married to my loving husband, and  
-I'm very passionate about music and musical theatre 🎼
+My name is Jamie Jenks I'm a web developer (front-end, back-end, full-stack... I love it all)
+In the future I'd love to be able to make more involved programs, like smart devices, desktop programs and video games.
+
+I'm also a wife, and passionate DnD player in my spare time
 
 As a developer I'm proficient with:  
-  - HTML5
-  - CSS3
-  - React
-  - JavaScript ES6
-  - Java 8
-  - Python 3
+  |Languages| Libraries + other|
+  |-----|-----|
+  |HTML|PostgresSQL|
+  |CSS|Less|
+  |JS|React|
+  |Java|Spring|
+  |Python|Rest API|
+  |PHP| Wordpress|
+  
+And more!
+(I am also super willing to learn a new stack, I'm a fast learner!)
 
 Feel free to look below ⬇️ or peruse my repositories
 
