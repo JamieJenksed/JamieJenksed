@@ -6,9 +6,7 @@
 My name is Jamie Jenks I'm a web developer (front-end, back-end, full-stack... I love it all)
 In the future I'd love to be able to make more involved programs, like smart devices, desktop programs and video games.
 
-I'm also a wife, and passionate DnD player in my spare time
-
-As a developer I'm proficient with:  
+Currently I've got a pretty small tech stack  
   |Languages| Libraries + other|
   |-----|-----|
   |HTML|PostgresSQL|
@@ -21,7 +19,12 @@ As a developer I'm proficient with:
 And more!
 (I am also super willing to learn a new stack, I'm a fast learner!)
 
+Aside from code...
+I'm also a wife, married to a forever GM. I make up fan fiction about the Pathfinder campaign - we play every weekend.
+I also am teaching myself to play the piano,
+And I bake chocolate chip cookies when I'm stressed.
+
 Feel free to look below ⬇️ or peruse my repositories
 
-You can reach me on my [Linkedin](linkedin.com/in/jamiejenksdev). Feel free to send a message
-I'd love to have a chat!
+You can reach me on my [Linkedin](linkedin.com/in/jamiejenksdev).
+Shoot me a message! I'd love to have a chat!
