@@ -20,7 +20,7 @@ And more!
 (I am also super willing to learn a new stack, I'm a fast learner!)
 
 Aside from code...
-I'm also a wife, married to a forever GM. I make up fan fiction about the Pathfinder campaign - we play every weekend.
+I'm also a wife, married to a forever GM. I make up fan fiction about the Pathfinder campaign we play with our friends every weekend.
 I also am teaching myself to play the piano,
 And I bake chocolate chip cookies when I'm stressed.
 
